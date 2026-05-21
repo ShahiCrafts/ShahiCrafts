@@ -38,13 +38,6 @@
 
 <div align="center">
 
-<table>
-  <tr>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahiCrafts&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e"/>
-    </td>
-  </tr>
-</table>
-
 <img src="https://streak-stats.demolab.com?user=ShahiCrafts&theme=github-dark-blue&hide_border=true&background=00000000&ring=6E56CF&fire=6E56CF&currStreakLabel=6E56CF" />
 
 </div>
