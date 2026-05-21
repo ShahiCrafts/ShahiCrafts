@@ -40,10 +40,6 @@
 
 <table>
   <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShahiCrafts&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=6E56CF&text_color=8b949e"/>
-    </td>
-    <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahiCrafts&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=8b949e"/>
     </td>
   </tr>
