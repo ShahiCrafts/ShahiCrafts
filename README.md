@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=SAUGAT%20SHAHI&fontSize=32&fontColor=ffffff&fontFamily=Fira%20Code&height=48&animation=false" />
 
-### <code>Software Engineer</code> · <code>DevOps</code> · <code>UI/UX Enthusiast</code>
+### <code>Software Engineer</code> · <code>Mobile Developer</code> · <code>UI/UX Enthusiast</code>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=6E56CF&center=true&vCenter=true&width=800&lines=Building+scalable+backend+systems+using+Node.js+%28MEN+stack%29+and+Spring+Boot.;Developing+cross-platform+mobile+applications+with+Flutter+focused+on+performance+and+UX.;Designing+and+deploying+DevOps+pipelines+using+AWS+and+Docker+for+cloud+systems.;Focused+on+system+design%2C+performance%2C+and+clean+architecture.)](https://git.io/typing-svg)
 
